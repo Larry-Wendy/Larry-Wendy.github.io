@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://blog.larry
+url: https://larry-wendy.github.io
 date_format: "ordinal"
 title: Larry的博客
 subtitle: "记录知识点滴"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+#description: "马壮的个人博客，公众号：闷骚的程序员"
+#keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+timezone: USA/New York
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: Larry-Wendy/Larry-Wendy.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
